@@ -1,0 +1,92 @@
+body{
+    text-align: center;
+    margin: 0;
+}
+h1{
+    margin: 0;
+    padding-top: 5rem;
+}
+.top{
+    background-color: #56c9b9;
+    color: #1C315E;
+}
+
+.heading
+{
+    font-family: 'Sacramento', cursive;
+    font-size: 6rem;
+}
+
+.subhead
+{
+    font-family: 'Kanit', sans-serif;
+    font-size: 2rem;
+}
+
+.img1{
+    width: 60%;
+}
+.img2{
+    width:25%;
+}
+.mid{
+    text-align: center;
+    width: 60%;
+    margin: 2rem auto 2rem auto;
+}
+
+.text,h3{
+    color: #1C315E;
+    font-family: 'Sacramento', cursive;
+    font-size: 3rem;
+}
+
+.moretext{
+    color: #227C70;
+    font-family: 'Roboto Mono', monospace;
+}
+.img3,.img5{
+    float: left;
+    width: 30%;
+    padding: 3rem 2rem 3rem 0;
+    
+}
+.img4{
+    float: right;
+    width: 30%;
+    padding: 3rem 0 3rem 2rem;
+}
+.bottom{
+    text-align: center;
+    width: 60%;
+    margin: 7rem auto 4rem auto;
+}
+h2{
+    color: #1C315E;
+    font-family: 'Sacramento', cursive;
+    font-size: 4rem;
+}
+.sub1,.sub2{
+    margin-top: 4rem;
+    margin-bottom: 10rem;
+}
+.foot{
+    background-color:#56c9b9; 
+    margin-bottom: 4rem;
+    padding-bottom: 2rem;
+}
+.contact{
+    margin-bottom: 2rem;
+}
+.foot2
+{
+    font-weight: 800;
+    font-size: larger;
+    font-family: 'Roboto Mono', monospace;
+    color: #1C315E;
+}
+a{
+    margin-top: 2rem;
+    padding: 0 2rem;
+    font-size: larger;
+}
